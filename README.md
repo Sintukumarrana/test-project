@@ -2,7 +2,7 @@
 
 project:- (GYM Based Projects)-(  index.html )
 
-Fronted projects:-It is based only we can use HTML and CSS  JavaScript based projects portal directly. The project involved  a framework that contains a number of common features like Single sign-on, Multiple roles, Document management, User events, Create a new account, 
+Fronted projects:-It is based only we can use HTML,CSS and JavaScript based projects portal directly. The project involved  a framework that contains a number of common features like Single sign-on, Multiple roles, Document management, User events, Create a new account, 
  And user can be sign  gym membership application.
 
 ●	Worked on 
